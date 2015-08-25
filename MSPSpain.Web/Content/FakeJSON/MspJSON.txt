@@ -174,12 +174,12 @@
         "city": "Guadalajara",
         "university": "Universidad de Alcalá",
         "email": "diego.martinez@studentpartner.com",
-        "skills": "Windows 8, Windows Phone ",
+        "skills": "Microsoft Azure, Windows Server, Office 365, IT",
         "twitter": "diegomrtnzg",
         "linkedin": "diegomrtnzg",
         "website": "http://diegomartinez.azurewebsites.net/",
-        "image": "https://pbs.twimg.com/profile_images/455421749878747136/vEfR_dfw_400x400.jpeg",
-        "thumbnail": "https://pbs.twimg.com/profile_images/455421749878747136/vEfR_dfw_400x400.jpeg",
+        "image": "https://pbs.twimg.com/profile_images/627024182404976640/fObJRcSe_400x400.jpg",
+        "thumbnail": "https://pbs.twimg.com/profile_images/627024182404976640/fObJRcSe_400x400.jpg",
         "location": {
             "lon": 40.63,
             "lat": -3.17
